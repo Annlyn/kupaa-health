@@ -1,10 +1,9 @@
-// filepath: c:\Projects\kupaa-health\vite.config.ts
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/kupaa-health/',
+  base: '/',  // Change this from '/kupaa-health/' to '/'
   build: {
     outDir: 'dist'
   },
