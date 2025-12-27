@@ -41,8 +41,8 @@ export default function Footer() {
               <span className="text-secondary mt-1">📧</span>
               <div>
                 <p className="text-xs text-primary/70">Email</p>
-                <a href="mailto:gokul@email.com" className="text-primary hover:text-white transition-colors">
-                gokul@email.com
+                <a href="mailto:kupaahealthproducts@gmail.com" className="text-primary hover:text-white transition-colors">
+                kupaahealthproducts@gmail.com
                 </a>
               </div>
               </li>
@@ -50,17 +50,18 @@ export default function Footer() {
               <span className="text-secondary mt-1">📸</span>
               <div>
                 <p className="text-xs text-primary/70">Instagram</p>
-                <a href="#" className="text-primary hover:text-white transition-colors">
-                @gokul_fitness
+                <a href="https://instagram.com/kupaahealthproducts" className="text-primary hover:text-white transition-colors">
+                @kupaahealthproducts
                 </a>
               </div>
               </li>
               <li className="flex items-start gap-2">
-              <span className="text-secondary mt-1">🎬</span>
+                <span className="text-secondary mt-1">📞</span>
+              
               <div>
-                <p className="text-xs text-primary/70">Letterboxd</p>
-                <a href="#" className="text-primary hover:text-white transition-colors">
-                @gokul_films
+                <p className="text-xs text-primary/70">Mobile</p>
+                <a href="tel:+917904675855" className="text-primary hover:text-white transition-colors">
+                +91 79046 75855
                 </a>
               </div>
               </li>
