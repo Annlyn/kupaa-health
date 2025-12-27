@@ -9,7 +9,7 @@
     "dev:all": "concurrently \"npm run dev\" \"npm run server\"",
     "prisma:generate": "prisma generate",
     "db:migrate": "prisma migrate dev --name init",
-    "build": "tsc -b && vite build",
+    "build": "tsc && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
